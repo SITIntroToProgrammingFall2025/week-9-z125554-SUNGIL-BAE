@@ -33,7 +33,7 @@ int main(void)
         printf("\n");
     }
     
-    printf("The first matrix you entered is\n");
+    printf("The second matrix you entered is\n");
     for(i=0; i<3; i++)
     {
         for(j=0; j<2; j++)
@@ -60,4 +60,5 @@ int main(void)
     }
     return 0;
 }
+
 
