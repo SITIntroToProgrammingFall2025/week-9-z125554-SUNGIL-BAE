@@ -4,7 +4,7 @@ int main() {
     int arr[5];
     int i, j, temp;
 
-    printf("Enter 5 integers:\n");
+    printf("Input array:\n");
     for (i = 0; i < 5; i++) {
         scanf("%d", &arr[i]);
     }
@@ -27,4 +27,5 @@ int main() {
 
     return 0;
 }
+
 
